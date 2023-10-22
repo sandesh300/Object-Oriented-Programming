@@ -1,0 +1,15 @@
+Inheritance - 
+- Inheritance means it allow sub classes to inherit common properties from super class.
+
+- Java Inheritance is used when we have is-a relationship between objects. 
+
+- Inheritance in Java is implemented using extends keyword.
+
+- It is a way of achieving code reusability and reducing redundancy in the program.
+
+- A subclass inherits all the attributes and behaviors (variables, methods) of its parent or superclass.
+
+- It is a mechanism in Object Oriented Programming (OOP) languages that allows one class to be based on another, inheriting its attributes.
+
+-example -
+1. real world eg. of inheritance is child and parents all the common properties of father are inherited to his son.

@@ -1,0 +1,24 @@
+Polymorphism :
+- One name but multiple forms is concept of Polymorphism.
+
+- Polymorphism is the concept where an object behaves differently in different situations. 
+
+- example-
+1. A man can be a many things like father, writer, student, employee etc. Same person can have different role.
+
+
+- There are two types of polymorphism - 
+1. Compile time polymorphism. 
+2. Runtime polymorphism. 
+
+- We can perform polymorphism in java by method overloading i.e. Conpile time polymorphism and method overriding i.e Runtime Polymorphism.
+
+- Overloading :
+- Two methods are said to be overloaded if and only both methods having same name but different arguments / parameters is called compile time polymorphism or static polymorphism or early Binding.
+
+- In overloading, method resolution always takes care by compiler based on reference type hence overloading is also considered as compile time polymorphism.
+
+Overriding :
+- when a method in a subclass has the same name, same parameter and same return type as a method in its superclass, then the method in a subclass is said to overriding the method in a superclass. It is runtime polymorphism or dynamic polymorphism or late binding.
+
+- In overriding, method resolution always takes care by JVM based on runtime object and hence overriding is also considered as runtime polymorphism.

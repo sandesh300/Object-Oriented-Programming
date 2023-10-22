@@ -1,0 +1,21 @@
+Encapsulation - 
+- The process of binding data and corresponding methods into a single unit is nothing but Encapsulation.
+
+- If any component follows data hiding and abstraction such type of component is said to be encapsulated component.
+
+- Encapsulation = Data Hiding + Abstraction.
+
+- Encapsulation is the technique used to implement abstraction in object-oriented programming. 
+  Encapsulation is used for access restriction to class members and methods. 
+  Access modifier keywords are used for encapsulation in object oriented programming.
+  For example, encapsulation in java is achieved using private, protected and public keywords.
+
+-The advantages of Encapsulation are,
+1. We can achieve security.
+2. Enhancement will become easy.
+3. It improves maintain ability of the application.
+
+- example -
+1. A college can have many department, like CS department, Account department, E&TC department, Civil department and so on,
+   all these department together to make a college.
+2. A School bag can keep our books, pens, erasers, notebooks.
