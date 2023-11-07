@@ -11,4 +11,4 @@ Class:  is a blueprint or template of objects
 Object:  is an instance of a class.
 
 # The Four Pillars of OOPs
-![image](https://github.com/sandesh300/Object-Oriented-Programming/assets/92014891/065da4b5-1858-451a-86aa-bcd0e9824ba8){:width="140px" height="140px"}
+<img src="https://github.com/sandesh300/Object-Oriented-Programming/assets/92014891/065da4b5-1858-451a-86aa-bcd0e9824ba8" width="650" height="500">
